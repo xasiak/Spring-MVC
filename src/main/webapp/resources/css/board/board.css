@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+table{
+	border : 1px solid #00375b;
+	border-radius : 15px;
+	background-color : #f0f9ff;
+	margin : 0 auto;
+	width : 500px;
+	padding : 5px;
+}
+
+tr, td {
+	border : 1px solid #00375b;
+}
